@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k0axaca
+- 👋 Hi, I’m Kristina
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 
 
