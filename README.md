@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kristina
+- 👋 Hi, I’m Kristina (she/her)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 
 
