@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kristina (she/her)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 - ✨ View my latest deployment here: https://k0axaca.github.io/omnifood_update/
-- 🌸 Check out my portfolio, too. https://github.com/k0axaca (last updated 2021, more recent projects coming soon!)
+- 🌸 Check out my portfolio, too. https://k0axaca.github.io/portfolio/ (last updated 2021, more recent projects coming soon!)
 
 
 <!---
